@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Level5-Task2</string>
+    <string name="title_activity_main">Game Backlog</string>
+    <string name="title_activity_add">Add Activity</string>
+    <string name="release_date">Release: %d %s %d</string>
+    <string name="day">Day</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="platform">Platform</string>
+    <string name="title">Title</string>
+    <string name="error_message">Please enter all fields correctly.</string>
+</resources>
